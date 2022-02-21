@@ -4,10 +4,8 @@ const alpha = 'abcdefghijklmnopqrstuvwxyz';
 const special = '@ ! # $ * ';
 const num = '';
 const length = '8-128';
-const confirm = ("Do you want caps?")
-const confirm = ("Do you want lowercase?")
-const confirm = ("Do you want uppercase?")
-const confirm = ("Do you want Numbers")
+const confirm = ("Do you want caps?");("Do you want lowercase?");("Do you want uppercase?")
+("Do you want Numbers")
 
 
 
