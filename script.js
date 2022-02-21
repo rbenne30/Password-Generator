@@ -1,12 +1,13 @@
 // Assignment code here
+var passwordGen = window.prompt("How long would you like your password to be?");
 const alpha = 'abcdefghijklmnopqrstuvwxyz';
 const special = '@ ! # $ * ';
 const num = '';
 const length = '8-128';
 const confirm = ("Do you want caps?")
-const confirm = ("Do you want lower case?")
+const confirm = ("Do you want lowercase?")
 const confirm = ("Do you want uppercase?")
-const confim = ("Do you want Numbers")
+const confirm = ("Do you want Numbers")
 
 
 
