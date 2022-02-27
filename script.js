@@ -45,11 +45,11 @@ if (upperCase === true){
 if (numbers === true){
   possibleCharacters = possibleCharacters + num
 }
-console.log(possibleCharacters)
-return ""
+console.log (possibleCharacters)
+return "password"
 }
+ 
 
-
-// Add event listener to generate button
+//Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
