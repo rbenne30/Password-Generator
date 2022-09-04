@@ -1,7 +1,7 @@
 # Password-Generator
 
 ## Purpose
-randomly generate a password a password that meets certain criteria so I can create a strong password that provides greater security 
+randomly generate a password that meets certain criteria so I can create a strong password that provides greater security 
 
 ## Built with 
 HTML
